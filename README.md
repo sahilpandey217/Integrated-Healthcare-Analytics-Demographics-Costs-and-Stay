@@ -31,4 +31,4 @@ This project integrates multiple healthcare analytics components to provide a ho
 ## Installation
 To run this project, ensure you have the following Python libraries installed:
 ```bash
-pip install pandas seaborn matplotlib scikit-learn
+pip install pandas seaborn matplotlib numpy
